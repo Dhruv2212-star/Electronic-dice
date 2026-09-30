@@ -1,0 +1,10 @@
+ref,value,quantity,symbol,footprint,unit_price_inr,supplier,buy_link,extended_price_inr
+U1,ATtiny84A-SSU,1,MCU_Microchip_ATtiny:ATtiny84A-SS,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,80.54,Evelta,https://evelta.com/attiny84a-ssu-ic-mcu-8bit-8kb-flash-14soic/,80.54
+D1-D6,White LED 1206,6,Device:LED,LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,0.8,KTRON India,https://www.ktron.in/product/smd-white-led-1206-package/,4.800000000000001
+R1-R6,1kΩ,6,Device:R,Resistor_SMD:R_1206_3216Metric,3.0,Probots,https://probots.co.in/1k-smd-resistor.html,18.0
+R7,10kΩ,1,Device:R,Resistor_SMD:R_1206_3216Metric,3.0,Probots,https://probots.co.in/10k-smd-resistor.html,3.0
+C1,100nF 50V,1,Device:C,Capacitor_SMD:C_1206_3216Metric,1.82,KTRON India,https://www.ktron.in/product/100nf-50v-104-mlcc-1206/,1.82
+SW1,6x6x5mm tactile push button,1,Switch:SW_Push,Button_Switch_THT:SW_PUSH_6mm_H5mm,1.0,Techtonics,https://techtonics.in/product/tactile-push-button-switch-4-pin-6x6x5-pack-of-10/,1.0
+J1,1x2 2.54mm male header,1,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1.37,Sharvi Electronics,https://sharvielectronics.com/product-category/component/components/connectors/berg_strip/,1.37
+J2,1x6 2.54mm male header,1,Connector_Generic:Conn_01x06,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,2.3,Sharvi Electronics,https://sharvielectronics.com/product-category/component/components/connectors/berg_strip/,2.3
+TOTAL,,,,,,,,112.83
